@@ -11,7 +11,7 @@
        
         //Relations
 
-        public Job JobJob { get; set; }
+        public Job Job { get; set; }
         public int jobId { get; set; }
     }
 }
