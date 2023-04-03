@@ -74,3 +74,5 @@ C:\Users\Amir\source\repos\ResuneManagment\BackendResume\BackendResume\obj\Debug
 C:\Users\Amir\source\repos\ResuneManagment\BackendResume\BackendResume\obj\Debug\net7.0\BackendResume.pdb
 C:\Users\Amir\source\repos\ResuneManagment\BackendResume\BackendResume\obj\Debug\net7.0\BackendResume.genruntimeconfig.cache
 C:\Users\Amir\source\repos\ResuneManagment\BackendResume\BackendResume\obj\Debug\net7.0\ref\BackendResume.dll
+C:\Users\Amir\source\repos\ResuneManagment\BackendResume\BackendResume\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Amir\source\repos\ResuneManagment\BackendResume\BackendResume\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
