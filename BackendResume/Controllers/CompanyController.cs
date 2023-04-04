@@ -1,6 +1,5 @@
 ﻿using AutoMapper;
 using BackendResume.Context;
-using BackendResume.Dtos;
 using BackendResume.Dtos.Company;
 using BackendResume.Entities;
 using Microsoft.AspNetCore.Http;

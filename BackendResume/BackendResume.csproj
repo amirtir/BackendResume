@@ -20,7 +20,6 @@
 
   <ItemGroup>
     <Folder Include="Core\" />
-    <Folder Include="Dtos\Job\" />
     <Folder Include="Dtos\Candidate\" />
   </ItemGroup>
 

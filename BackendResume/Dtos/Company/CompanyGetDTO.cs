@@ -1,6 +1,6 @@
 ﻿using BackendResume.Enums;
 
-namespace BackendResume.Dtos
+namespace BackendResume.Dtos.Company
 {
     public class CompanyGetDTO
     {
@@ -9,6 +9,6 @@ namespace BackendResume.Dtos
 
         public int Id { get; set; }
         public DateTime CreatedAt { get; set; } = DateTime.Now;
-       
+
     }
 }

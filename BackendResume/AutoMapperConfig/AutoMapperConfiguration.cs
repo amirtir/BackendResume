@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
-using BackendResume.Dtos;
 using BackendResume.Dtos.Company;
+using BackendResume.Dtos.Job;
 using BackendResume.Entities;
 
 namespace BackendResume.AutoMapperConfig
@@ -13,7 +13,11 @@ namespace BackendResume.AutoMapperConfig
 
             CreateMap<CompanyCreateDTO, Company>();
             CreateMap<Company, CompanyGetDTO > ();
-           
+           CreateMap<JobCreateDTO,Job>();
+
+
+            CreateMap<Job, JobGetDTO>()
+                .ForMember(des => des.CompanyName, opt => opt.MapFrom(src => src.company.Name));
 
             //Job
 
